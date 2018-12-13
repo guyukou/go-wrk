@@ -8,7 +8,7 @@ import (
 
 	"fmt"
 
-	"golang_org/x/net/http2"
+	"vendor/golang_org/x/net/http2"
 	"time"
 	"github.com/tsliwowicz/go-wrk/util"
 )
